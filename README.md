@@ -69,7 +69,7 @@ Full Stack MERN Developer specializing in scalable backend architecture, secure 
 ### 📅 Daily Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/39D353/krutkarsh14" alt="GitHub Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" alt="Utkarsh Kumar Contribution Graph"/>
 </p>
 
 ---
@@ -91,74 +91,6 @@ Full Stack MERN Developer specializing in scalable backend architecture, secure 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krutkarsh14&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 MERN Authentication System
-
-- JWT Authentication & Refresh Tokens
-- bcrypt Password Hashing
-- Protected Routes & Middleware
-- MongoDB User Persistence
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MongoDB` `JWT`
-
-</td>
-
-<td width="50%">
-
-### 💬 Real-Time Chat Application
-
-- Direct & Group Messaging
-- Socket.io Bidirectional Events
-- Responsive UI Architecture
-- MongoDB Message History
-
-**Tech Stack**
-
-`React` `Express.js` `Socket.io` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Modern Portfolio Website
-
-- Fully Responsive Component Architecture
-- Dark/Light Theme Switching
-- Micro-interactions & Smooth Transitions
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Vite`
-
-</td>
-
-<td width="50%">
-
-### 📚 RESTful Notes API
-
-- Full CRUD Operations
-- Modular MVC Architecture
-- Request Validation & Secure Auth
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MongoDB`
-
-</td>
-</tr>
-</table>
 
 ---
 
