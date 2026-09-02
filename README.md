@@ -78,8 +78,14 @@ Full Stack MERN Developer focused on building scalable web applications with mod
 
 # 📅 Daily Contribution Graph
 
+## 📅 Daily Contribution Graph
+
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=0d1117&hide_border=true&radius=16"
+    width="100%"
+    alt="Daily Contribution Graph"
+  />
 </p>
 
 ---
