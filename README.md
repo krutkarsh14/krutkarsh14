@@ -1,56 +1,54 @@
-# 🚀 Complete Professional GitHub Profile README (2026)
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0F172A,100:14532D&text=Utkarsh%20Kumar&fontSize=58&fontColor=39D353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descSize=20&descColor=9AE6B4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0D1117,100:14532D&text=Utkarsh%20Kumar&fontSize=60&fontColor=39D353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descSize=20&descColor=A7F3D0"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%E2%80%A2+Authentication+%E2%80%A2+Docker"/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=krutkarsh14&label=Profile%20Views&style=for-the-badge&color=39D353"/>
-<img src="https://img.shields.io/github/followers/krutkarsh14?logo=github&style=for-the-badge&color=39D353"/>
-<img src="https://img.shields.io/github/stars/krutkarsh14?style=for-the-badge&color=39D353"/>
+<img src="https://komarev.com/ghpvc/?username=krutkarsh14&label=Profile+Views&style=for-the-badge&color=39D353"/>
+<img src="https://img.shields.io/github/followers/krutkarsh14?style=for-the-badge&logo=github&color=39D353"/>
+<img src="https://img.shields.io/github/stars/krutkarsh14?affiliations=OWNER&style=for-the-badge&color=39D353"/>
 </p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-Full Stack MERN Developer focused on building scalable web applications with clean architecture, secure authentication, and modern backend development.
+Full Stack MERN Developer specializing in scalable backend architecture, secure authentication systems, REST APIs, and modern React applications.
 
-* ⚡ Full Stack MERN Development
-* 🔐 Authentication & Authorization (JWT, bcrypt, Cookies)
-* 🌐 REST API Development
-* 🗄️ MongoDB Database Design
-* ⚙️ Express.js Backend Architecture
-* 🎨 React, Next.js & Tailwind CSS
-* 🐳 Docker • Git • Postman • Linux
+- ⚡ Full Stack MERN Development
+- 🔐 JWT Authentication & Authorization
+- 🌐 REST API Development
+- 🗄️ MongoDB Database Design
+- ⚙️ Express.js Backend Architecture
+- 🎨 React, Next.js & Tailwind CSS
+- 🐳 Docker • Git • Postman • Linux
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
@@ -60,32 +58,26 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=39D353&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=39D353&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=github-dark-green&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=FFFFFF"/>
+
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=github_dark&hide_border=true&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=github_dark&hide_border=true&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
 </p>
+
 ---
 
 # 📅 Daily Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/39D353/krutkarsh14"/>
+<img width="100%" src="https://ghchart.rshah.org/39D353/krutkarsh14" alt="GitHub Contribution Graph"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/krutkarsh14/krutkarsh14/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 ---
 
 # 🏆 GitHub Trophies
@@ -96,7 +88,7 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 ---
 
-# 📈 GitHub Summary Cards
+# 📈 GitHub Summary
 
 <p align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutkarsh14&theme=github_dark"/>
@@ -118,17 +110,18 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🔐 MERN Authentication System
 
-* JWT Authentication
-* bcrypt Password Hashing
-* Protected Routes
-* MongoDB Integration
+- JWT Authentication
+- bcrypt Password Hashing
+- Protected Routes
+- MongoDB Integration
 
-**Stack:** Node.js • Express • MongoDB
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 </td>
 
@@ -136,46 +129,58 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 ### 💬 Real-Time Chat Application
 
-* Authentication
-* Socket.io
-* Responsive UI
-* MongoDB
+- Authentication
+- Socket.io
+- Responsive UI
+- MongoDB
 
-**Stack:** React • Express • Socket.io
+**Tech Stack**
+
+`React` `Express.js` `Socket.io`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ### 🌐 Modern Portfolio Website
 
-* Responsive Design
-* Dark Mode
-* Smooth Animations
+- Responsive Design
+- Dark Mode
+- Smooth Animations
 
-**Stack:** React • Tailwind CSS
+**Tech Stack**
+
+`React` `Tailwind CSS` `Vite`
 
 </td>
 
 <td width="50%">
 
-### 📚 Notes REST API
+### 📚 RESTful Notes API
 
-* CRUD Operations
-* MVC Architecture
-* JWT Authentication
+- CRUD Operations
+- MVC Architecture
+- JWT Authentication
 
-**Stack:** Express • MongoDB
+**Tech Stack**
+
+`Express.js` `MongoDB`
 
 </td>
-
 </tr>
-
 </table>
+
+---
+
+# 🐍 Contribution Snake
+
+> **After enabling GitHub Actions, this snake becomes animated.**
+
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/krutkarsh14/krutkarsh14/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
@@ -184,19 +189,19 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 <p align="center">
 
 <a href="https://www.linkedin.com/in/utkarsh-kumar-92749428a">
-<img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="mailto:krutkarsh14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-39D353?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-39D353?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 <a href="https://utkarsh-modern-portfolio-website-i6.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/krutkarsh14">
-<img src="https://img.shields.io/badge/GitHub-39D353?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-39D353?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </p>
@@ -205,6 +210,6 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:000000,50:0F172A,100:14532D"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:000000,50:0D1117,100:14532D"/>
 
 </div>
