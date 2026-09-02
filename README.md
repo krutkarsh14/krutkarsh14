@@ -60,24 +60,23 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=39D353&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=github-dark-green&hide_border=true"/>
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=FFFFFF"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=github_dark&hide_border=true&title_color=39D353&text_color=FFFFFF&bg_color=0D1117"/>
 </p>
-
 ---
 
 # 📅 Daily Contribution Graph
 
 <p align="center">
-<img width="100%" src="https://ghchart.rshah.org/39d353/krutkarsh14"/>
+  <img width="100%" src="https://ghchart.rshah.org/39D353/krutkarsh14"/>
 </p>
 
 ---
@@ -85,9 +84,8 @@ Full Stack MERN Developer focused on building scalable web applications with cle
 # 🐍 Contribution Snake
 
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/krutkarsh14/krutkarsh14/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/krutkarsh14/krutkarsh14/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
