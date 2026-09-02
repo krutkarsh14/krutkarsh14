@@ -95,7 +95,7 @@ const utkarsh = {
 ## Daily Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/39D353/krutkarsh14" alt="GitHub Contribution Graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/krutkarsh14/krutkarsh14/output/github-contribution-grid.svg" alt="GitHub Contribution Graph"/>
 </p>
 
 <br/>
