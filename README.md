@@ -159,31 +159,6 @@ const utkarsh = {
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">Netflix Clone</h3>
-<div align="center">
-<a href="https://github.com/krutkarsh14">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krutkarsh14&repo=Netflix-Clone&theme=github_dark&hide_border=true"/>
-</a>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Authentication API</h3>
-<div align="center">
-<a href="https://github.com/krutkarsh14">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krutkarsh14&repo=Authentication-System&theme=github_dark&hide_border=true"/>
-</a>
-</div>
-</td>
-
-</tr>
-</table>
 
 ---
 
