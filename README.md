@@ -58,7 +58,7 @@
 ### 📈 Daily Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
