@@ -25,7 +25,6 @@
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **full-stack web applications** using the **MERN Stack**
-- 🌱 I'm currently deepening my knowledge of **System Design**, **Next.js**, and **TypeScript**
 - 👯 I'm looking to collaborate on **open-source MERN / React projects**
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, REST APIs**
 - ⚡ Fun fact: I debug better with coffee ☕
