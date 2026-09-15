@@ -1,93 +1,108 @@
 <div align="center">
 
-# Hi 👋, I'm Utkarsh Kumar
+# Hi 👋 I'm Utkarsh Kumar
 
-### Full Stack MERN Developer • Java + DSA • Open Source Learner
+### 💻 Full Stack MERN Developer | Java + DSA | Open Source Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;JavaScript+%7C+Java+%7C+REST+APIs;Building+Scalable+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;JavaScript+%7C+REST+APIs;Building+Scalable+Web+Applications" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=krutkarsh14&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=krutkarsh14&label=Profile+Views&style=flat-square&color=0ea5e9"/>
 
 </div>
 
 ---
 
-# 🌌 About Me
+<div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
+
+---
+
+## 🚀 About Me
 
 ```yaml
 Name       : Utkarsh Kumar
 Role       : Full Stack MERN Developer
-Education  : B.Tech CSE (AI & ML) | 2023–2027
+Education  : B.Tech CSE (AI & ML)
 Location   : India 🇮🇳
-Focus      : MERN • Java • DSA • System Design
+Learning   : Docker • Kubernetes • System Design
 ```
 
-### 🚀 Currently Working On
-
-- 💻 Full Stack MERN Applications.
-- 🌱 Learning Docker, Kubernetes & System Design.
+- 💻 Building Full Stack MERN Applications.
+- 🌱 Learning scalable backend architecture.
 - 🧠 Solving DSA in Java.
-- ⚡ Building scalable backend APIs using Express & MongoDB.
+- ⚡ Passionate about clean UI & efficient APIs.
 
 ---
-
-# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+# 🔥 Skills 🔥
 
 </div>
 
----
-
-# ⚒️ Tech Stack
-
-## Frontend
+### 💙 Frontend Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,vite"/>
-</p>
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-</p>
-
-## Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,ts"/>
-</p>
-
-## Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite" />
 </p>
 
 ---
+
+### 💚 Backend Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+---
+
+### 🛠 Backend Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
+
+---
+
+### 💬 Messaging / APIs
+
+<p align="center">
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### ⚙ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel" />
+</p>
+
+---
+
+<div align="center">
 
 # 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -100,20 +115,20 @@ Focus      : MERN • Java • DSA • System Design
 - Admin Dashboard
 - Patient Records
 
-**Tech:** React • Node.js • MongoDB • Express
+**Tech:** React • Node • MongoDB
 
 </td>
 
 <td width="50%">
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat App
 
 - Socket.IO
 - Authentication
 - Online Users
 - Media Sharing
 
-**Tech:** React • Express • MongoDB • Socket.IO
+**Tech:** MERN + Socket.IO
 
 </td>
 </tr>
@@ -124,7 +139,7 @@ Focus      : MERN • Java • DSA • System Design
 ### 🛒 E-Commerce Website
 
 - Authentication
-- Shopping Cart
+- Cart
 - Orders
 - Admin Panel
 
@@ -137,10 +152,10 @@ Focus      : MERN • Java • DSA • System Design
 ### 🤖 AI X-Ray Detection
 
 - CNN Model
-- Chest X-Ray Classification
+- Chest X-Ray Detection
 - Prediction Dashboard
 
-**Tech:** Python • TensorFlow • OpenCV
+**Tech:** TensorFlow • OpenCV
 
 </td>
 </tr>
@@ -148,97 +163,67 @@ Focus      : MERN • Java • DSA • System Design
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
+
+# 📈 Statistics 📈
+
+</div>
+
+<p align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 GitHub Activity Graph
-
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=tokyo-night&hide_border=true&area=true)
+## 📊 Contribution Graph
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=krutkarsh14&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=krutkarsh14&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
-
 <div align="center">
+
+## 📚 Currently Learning
 
 | Technology | Status |
 |------------|--------|
-| ⚙️ Docker | 🟢 Learning |
-| ☸️ Kubernetes | 🟢 Learning |
+| ⚙ Docker | 🟢 Learning |
+| ☸ Kubernetes | 🟢 Learning |
 | 🧠 System Design | 🟢 Learning |
-| 🗄 SQL | 🟢 Learning |
 | ⚡ TypeScript | 🟢 Learning |
+| 🗄 SQL | 🟢 Learning |
 
 </div>
 
 ---
 
-# 🧠 Coding Progress
-
-| Skill | Progress |
-|-------|----------|
-| JavaScript | ███████████░ 90% |
-| React.js | ██████████░░ 85% |
-| Node.js | █████████░░░ 80% |
-| Express.js | █████████░░░ 80% |
-| MongoDB | █████████░░░ 80% |
-| Java + DSA | ████████░░░░ 75% |
-| SQL | ███████░░░░░ 70% |
-| Docker | ██████░░░░░░ 60% |
-| Kubernetes | ████░░░░░░░░ 40% |
-
----
-
-# 📌 Developer Quote
-
 <div align="center">
 
-> ### "Consistency compounds. Build every day."
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
+## 🌐 Connect With Me
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -262,6 +247,8 @@ Focus      : MERN • Java • DSA • System Design
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### 💙 "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile.
 
 </div>
