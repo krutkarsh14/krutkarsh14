@@ -1,124 +1,40 @@
+<!-- ====================================================== -->
+<!-- 1. HERO BANNER & ANIMATED GREETINGS                    -->
+<!-- ====================================================== -->
 <div align="center">
-
-# Hi 👋 I'm Utkarsh Kumar
-
-### 💻 Full Stack MERN Developer | Java + DSA | Open Source Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;JavaScript+%7C+REST+API;Building+Scalable+Web+Applications"/>
-
-<img src="https://komarev.com/ghpvc/?username=krutkarsh14&style=for-the-badge&color=0ea5e9"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=260&section=header&text=Hi%20There,%20I'm%20Utkarsh%20Kumar%20👋&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </div>
 
----
-
-## 🚀 About Me
-
-```yaml
-Name      : Utkarsh Kumar
-Role      : Full Stack MERN Developer
-Education : B.Tech CSE (AI & ML)
-Location  : India 🇮🇳
-Learning  : Docker • Kubernetes • System Design
-```
-
-- 💻 MERN Stack Developer.
-- 🌱 Learning scalable backend architecture.
-- 🧠 Solving DSA in Java.
-- ⚡ Building production-ready web applications.
-
----
-
-## 🔥 Skills
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
-
-### Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech |
-|---------|------|
-| 🏥 Hospital Management System | React, Node.js, MongoDB |
-| 💬 Real-Time Chat Application | MERN + Socket.IO |
-| 🛒 E-Commerce Website | MERN Stack |
-| 🤖 AI X-Ray Detection | Python, TensorFlow |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutkarsh14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📅 Contribution Calendar
-
-<p align="center">
-<img width="95%" src="https://ghchart.rshah.org/2f81f7/krutkarsh14" alt="GitHub Contribution Calendar"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;MERN+%26+Next.js+Architect;AI+%26+Machine+Learning+Explorer;Passionate+DSA+Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-
-### ⭐ Code • Learn • Build • Repeat
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=38BDF8" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-2ea44f?style=flat-square" alt="Collaborations" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=flat-square" alt="Focus" />
 </div>
+
+<br/>
+
+<!-- ====================================================== -->
+<!-- 2. ABOUT ME TERMINAL                                   -->
+<!-- ====================================================== -->
+### 💫 About Me
+
+```javascript
+const developer = {
+    name: "Utkarsh Kumar",
+    role: "Full Stack Engineer & AI/ML Specialist",
+    corePhilosophy: "Building highly scalable, distributed production systems",
+    stack: {
+        frontend: ["React.js", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "FastAPI"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        tools: ["Docker", "Git", "Linux", "Postman"]
+    },
+    hobbies: ["Cricket", "Reading Non-Fiction", "Public Speaking"],
+    currentGoal: "Mastering system design and contributing to open-source"
+};
