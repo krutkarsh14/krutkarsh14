@@ -171,10 +171,9 @@ Learning   : Docker • Kubernetes • System Design
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krutkarsh14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=krutkarsh14&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=krutkarsh14&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -189,7 +188,7 @@ Learning   : Docker • Kubernetes • System Design
 
 ## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=tokyo-night&hide_border=true&area=true"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krutkarsh14&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -199,7 +198,7 @@ Learning   : Docker • Kubernetes • System Design
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=krutkarsh14&theme=tokyonight&no-frame=true&margin-w=10"/>
+![Trophy](https://github-profile-trophy.vercel.app/?username=krutkarsh14&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
